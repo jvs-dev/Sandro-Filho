@@ -1,0 +1,23 @@
+.tittle
+{
+    color: var(--white);
+    font-size: 55px;
+    font-style: normal;
+    letter-spacing: 2px;
+    font-weight: 500;
+    margin: 0px;
+}
+.tittle2
+{
+    font-size: 24px;
+}
+.tittlemobile
+{
+    display: none;
+    height: 100%;
+    align-items: center;
+    text-align: center;
+    color: var(--white);
+    font-size: 27px;
+    margin: 0px;
+}

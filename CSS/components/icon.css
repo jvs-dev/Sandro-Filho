@@ -1,0 +1,42 @@
+.socialicon1
+{
+    font-size: 30px;
+    color: var(--black);
+}
+.socialicon1:hover
+{
+    animation: iconanimation 1s infinite;
+}
+@keyframes iconanimation
+{
+    0%
+    {
+        transform: scale(1.0);
+    }
+    50%
+    {
+        transform: scale(1.10);
+    }
+    100%
+    {
+        transform: scale(1.0);
+    }
+}
+.scicon4:hover
+{
+    color: #25D366;
+}
+.scicon3:hover
+{
+    color: #1DA1F2;
+}
+.scicon2:hover
+{
+    color: var(--white);
+    background: linear-gradient(225deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #F77737, #FCAF45, #FFDC80);
+    border-radius: 9px;
+}
+.scicon1:hover
+{
+    color: #4267B2;
+}

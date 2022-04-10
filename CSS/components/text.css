@@ -1,0 +1,10 @@
+.noticetext
+{
+    text-align: center;
+    font-weight: 450;
+}
+.linkicon
+{
+    display: flex;
+    align-items: center;
+}

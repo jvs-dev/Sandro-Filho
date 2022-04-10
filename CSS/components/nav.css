@@ -1,0 +1,16 @@
+.navmobile
+{
+    display: none;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    z-index: 20;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.navmobile.active
+{
+    display: flex;
+}

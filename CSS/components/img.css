@@ -1,0 +1,21 @@
+.banner
+{
+    align-self: center;
+    height: 100%;
+}
+.podemoslogo
+{
+    height: 80%;
+}
+.backimgsection1
+{
+    display: flex;
+    justify-content: center;
+    background-color: var(--black);
+    height: 230px;
+    width: 100%;
+}
+.imgsection1
+{
+    height: 100%;
+}
